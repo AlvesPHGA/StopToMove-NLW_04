@@ -24,3 +24,6 @@
     <li>Login area with GitHub account</li>
     <li>Loss of XP, if the doesn't do the exercises</li>
 </ol>
+
+<h2>Deploy</h2>
+<strong>StopToMove</stron> https://stoptomove.vercel.app/
